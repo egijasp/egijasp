@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Egija!</h1>
 <h3 align="center">A passionate Software Developer from Latvia.</h3>
 
-- 🌱 I’m currently learning **Angular.**
+- 🌱 I’m currently learning **Angular, NodeJs + MongoDB.**
 
 - 📫 How to reach me **egija.sprukule@gmail.com**
 
